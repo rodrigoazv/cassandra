@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Destruidor dos mares",
+        "size": "Cruzeiro",
+        "containersAllowed": 100
+    },
+    {
+        "name": "Atlantico sul",
+        "size": "Pesqueiro",
+        "containersAllowed": 2
+    },
+    {
+        "name": "Pacifico norte",
+        "size": "Lancha",
+        "containersAllowed": 0
+    }
+]
